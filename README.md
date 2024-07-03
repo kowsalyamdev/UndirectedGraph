@@ -4,8 +4,8 @@
 
 Use the following undirected graph ­- nodes can be visited only once:
 
-    <div align="center">
-        <img src="assets/graph.png" width="300px"</img>
+<div align="center">
+    <img src="assets/graph.png" width="300px"</img>
      </div>
 
 - a. Write a function that returns all the possible paths between A­-H.
